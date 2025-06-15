@@ -50,8 +50,8 @@ Ask me about <strong>RAG, AI Agents, Computer Vision, or other ML/DL</strong> to
 
 | Project | Tech Highlights | Repo |
 |---------|-----------------|------|
-| **PPE Video Detector** | YOLOv8 · Torch API · FastAPI | [`PPE_Detection`](https://github.com/Milltrader/NeuralNetworkProjects/tree/main/PPE_Detection) |
-| **Adaptive Cover-Letter Writer** | LangChain · GPT-4 · Semantic Search | [`CoverLetterGenerator`](https://github.com/Milltrader/CoverLetterGenerator) |
+| **PPE Video Detector** | YOLO · Pytorch · Gradio | [`PPE_Detection`](https://github.com/Milltrader/NeuralNetworkProjects/tree/main/PPE_Detection) |
+| **Adaptive Cover-Letter Writer** | ChromaDB · RAG · Semantic Search | [`CoverLetterGenerator`](https://github.com/Milltrader/CoverLetterGenerator) |
 | **Musical Genre Classifier** | CNNs · SVM · XGBoost · Other ML| [`MusicalGenreClassifier`](https://github.com/Milltrader/MusicalGenrePrediction) |
 | **GAIA LangGraph Agent** | LangGraph · LlamaIndex · OpenAI APIs | [`GAIA_LangGraph_Agent`](https://github.com/Milltrader/GAIA_LangGraph_Agent) |
 
