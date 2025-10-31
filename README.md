@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi, I’m Artemii 👋</h1>
 <p align="center">
-AI-passionate Data Analyst combining business insight with strong technical chops.<br/>
+AI-passionate Data Analyst combining business insight with strong technical skills<br/>
 Ask me about <strong>RAG, AI Agents, Computer Vision, or other ML/DL</strong> topics.
 </p>
 
