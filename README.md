@@ -2,7 +2,7 @@
 <!--                  Artemii Pazhitnov (Milltrader)                -->
 <!-- *************************************************************** -->
 
-<h1 align="center">Hi, I’m Artemii 👋</h1>
+<h1 align="center">Hi, I’m Artemii</h1>
 <p align="center">
 AI-passionate Data Analyst combining business insight with strong technical skills<br/>
 Ask me about <strong>RAG, AI Agents, Computer Vision, or other ML/DL</strong> topics.
@@ -16,16 +16,16 @@ Ask me about <strong>RAG, AI Agents, Computer Vision, or other ML/DL</strong> to
 
 ---
 
-## ⚡ About Me
-- 🏢 **Data Analyst (Apprentice) @ Colas SA – EMEA Procurement**  
+## About Me
+- **Data Analyst (Apprentice) @ Colas SA – EMEA Procurement**  
   • Member of the AI Committee, designing & testing AI use-cases across 20 countries  
   • Automating data pipelines & dashboards that save **350 h+/month**  
   • Kicking-off an internal **RAG chatbot** to surface procurement insights  
-- 🌍 Based in **Paris**, open to AI / Data cross-functional roles  
+- Based in **Paris**, open to AI / Data cross-functional roles  
 
 ---
 
-## 🖥️ Core Tech Stack
+## Core Tech Stack
 
 | Category | Main Tools |
 |----------|------------|
@@ -33,7 +33,7 @@ Ask me about <strong>RAG, AI Agents, Computer Vision, or other ML/DL</strong> to
 | **LLM & RAG** | RAG pipelines · Prompt Eng · LangGraph · LlamaIndex · Vector DBs · LLM APIs |
 | **Apps / UI** | Gradio |
 | **Data & BI** | SQL · Power BI · Power Automate |
-| **Languages** | Python · R |
+| **Languages** | Python (core data and ML libraries) · R |
 | **DevOps (basic)** | Docker* · Airflow* |
 | **Cloud (conceptual)** | Azure & Google data services* |
 
