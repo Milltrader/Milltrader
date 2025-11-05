@@ -68,6 +68,5 @@ Ask me about <strong>RAG, AI Agents, Computer Vision, or other ML/DL</strong> to
 ## 📫 Contact
 - **Email:** artpazhitnov@gmail.com  
 - **LinkedIn:** [linkedin.com/in/artemii-pazhitnov-178bb41b6](https://linkedin.com/in/artemii-pazhitnov-178bb41b6)  
-- **GitHub:** [github.com/Milltrader](https://github.com/Milltrader)
 
 <!-- End -->
