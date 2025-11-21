@@ -34,7 +34,7 @@ Ask me about <strong>RAG, AI Agents, Computer Vision, or other ML/DL</strong> to
 | **Apps / UI** | Gradio |
 | **Data & BI** | SQL · Power BI · Power Automate |
 | **Languages** | Python (core data and ML libraries) · R |
-| **DevOps (basic)** | Docker* · Airflow* |
+| **DevOps (basic)** | Docker · Airflow* |
 | **Cloud (conceptual)** | Azure & Google data services* |
 
 <sub>*Used in PoCs / one-off deployments; comfortable reading configs & spinning up simple jobs.</sub>
