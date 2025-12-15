@@ -51,6 +51,7 @@ Ask me about <strong>RAG, AI Agents, Computer Vision, or other ML/DL</strong> to
 | Project | Tech Highlights | Repo |
 |---------|-----------------|------|
 | **PPE Video Detector** | YOLO · Pytorch · Gradio | [`PPE_Detection`](https://github.com/Milltrader/NeuralNetworkProjects/tree/main/PPE_Detection) |
+| **LLM-based Quote Processing (Thesis)** | LoRa · Mixtral · Transformers | [`Article`](https://www.researchgate.net/publication/398689207_Analyzing_and_Processing_Procurement_Quotations_with_LoRA-Tuned_Large_Language_Models) |
 | **Adaptive Cover-Letter Writer** | ChromaDB · RAG · Semantic Search | [`CoverLetterGenerator`](https://github.com/Milltrader/CoverLetterGenerator) |
 | **Musical Genre Classifier** | CNNs · SVM · XGBoost · Other ML| [`MusicalGenreClassifier`](https://github.com/Milltrader/MusicalGenrePrediction) |
 | **GAIA LangGraph Agent** | LangGraph · LlamaIndex · OpenAI APIs | [`GAIA_LangGraph_Agent`](https://github.com/Milltrader/GAIA_LangGraph_Agent) |
