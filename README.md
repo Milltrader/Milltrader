@@ -39,14 +39,8 @@ Ask me about <strong>RAG, AI Agents, Computer Vision, or other ML/DL</strong> to
 
 <sub>*Used in PoCs / one-off deployments; comfortable reading configs & spinning up simple jobs.</sub>
 
----
 
-## 🚀 Current Focus
-- **Implementing a RAG-powered chatbot for fast referencing of procurement documents at Colas**
-
----
-
-## 🔨 Selected Projects
+## Selected Projects
 
 | Project | Tech Highlights | Repo |
 |---------|-----------------|------|
@@ -58,15 +52,15 @@ Ask me about <strong>RAG, AI Agents, Computer Vision, or other ML/DL</strong> to
 
 ---
 
-## 🎓 Selected Certificates / Courses
-- 🤖 **Hugging Face – Agents Course**  
-- 🧑‍🔬 **Gen AI Intensive** (Kaggle × Google Cloud)  
-- ☁️ **AZ-900 – Azure Data Fundamentals**  
-- 🏋️ **Zero to Mastery – Learn PyTorch for Deep Learning**  
+## Selected Certificates / Courses
+- **Hugging Face – Agents Course**  
+- **Gen AI Intensive** (Kaggle × Google Cloud)  
+- **AZ-900 – Azure Data Fundamentals**  
+- **Zero to Mastery – Learn PyTorch for Deep Learning**  
 
 ---
 
-## 📫 Contact
+## Contact
 - **Email:** artpazhitnov@gmail.com  
 - **LinkedIn:** [linkedin.com/in/artemii-pazhitnov-178bb41b6](https://linkedin.com/in/artemii-pazhitnov-178bb41b6)  
 
